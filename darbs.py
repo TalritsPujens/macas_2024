@@ -3,5 +3,5 @@
 import random
 
 for i in range(101, 501, 1):
-    skaitlis=random.randint(101,501,5)
+    skaitlis=random.randint(1,100)
     print(skaitlis)
